@@ -15,10 +15,11 @@ This Specialization covers required topics to fullfil the preparation for the in
 ## Topics
 ```
 [ ] The Algorithms Design Manual
-[ ] sty C++ in 24 hours
+[~] sty C++ in 24 hours
 [~] hackerrank 30 days of code
 [~] hackerrank Algorithms
 [~] hackerrank Data Structures
+[~] Algorithms Toolbox
 ```
 
 
